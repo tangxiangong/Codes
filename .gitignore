@@ -1,0 +1,7 @@
+.vscode
+**/.DS_Store
+**/.idea
+**/build
+**/bin
+rust/target
+rust/Cargo.lock
