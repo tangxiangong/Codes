@@ -1,5 +1,5 @@
 [workspace]
-members = [".", "assembly", "concurrency"]
+members = [".", "assembly", "concurrency", "n-body"]
 resolver = "3"
 
 [workspace.package]
